@@ -1,0 +1,6 @@
+# This configure is based on Ubuntu 12.04
+
+# Install python and basics
+sudo apt-get install -y python2.7-dev python-pip make
+
+
