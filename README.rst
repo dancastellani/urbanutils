@@ -1,4 +1,4 @@
-**UrbanUtils**
+**Urban Utils**
 
 A set of utils to help work with urban data in python.
 
@@ -10,7 +10,7 @@ A set of utils to help work with urban data in python.
 **How to install**
 
 In Ubuntu do the following:
-#. run './configure'
-#. run 'python setup.py install'
+  #. run './configure'
+  #. run 'python setup.py install'
   
 
