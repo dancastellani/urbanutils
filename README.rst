@@ -1,5 +1,5 @@
 **Urban Utils**
-
+______
 A set of utils to help work with urban data in python.
 
 
@@ -7,8 +7,9 @@ A set of utils to help work with urban data in python.
  * Pandas Utils: functions that can help working with pandas.
 
 
-**How to install (Ubuntu)**
-  #. run './configure'
-  #. run 'python setup.py install'
+**How to install (Ubuntu)** 
+  #. chmod +x configure
+  #. ./configure
+  #. python setup.py install
   
 
