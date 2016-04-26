@@ -9,7 +9,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "urban_utils",
+    name = "urbanutils",
     version = "0.1.0",
     author = "Daniel Castellani",
     author_email = "daniel.castellani@nyu.edu",
